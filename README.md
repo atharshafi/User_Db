@@ -74,6 +74,4 @@ print("User Details:", user)
 delete_user(11)
 ```
 
-## License
 
-This project is licensed under the MIT License.
