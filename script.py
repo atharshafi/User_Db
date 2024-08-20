@@ -93,3 +93,6 @@ if __name__ == "__main__":
     user = read_user(11)
     print("User Details:", user)
 
+# Delete a user
+    delete_user(1)
+
